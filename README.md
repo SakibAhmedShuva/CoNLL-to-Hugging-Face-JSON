@@ -1,6 +1,6 @@
 # CoNLL-to-Hugging-Face-JSON
 
-This repository contains a Jupyter notebook that converts CoNLL format data to JSON format compatible with Hugging Face datasets. It's designed to prepare Named Entity Recognition (NER) datasets for use with Hugging Face's transformers library and other deep learning models.
+This repository contains a Jupyter notebook that converts CoNLL format data to JSON format compatible with Hugging Face datasets ready to train your custom model. It's designed to prepare Named Entity Recognition (NER) datasets for use with Hugging Face's transformers library and other deep learning models.
 
 ## Features
 
