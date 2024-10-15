@@ -127,4 +127,4 @@ Contributions to improve the script or add new features are welcome. Please feel
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
